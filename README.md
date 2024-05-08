@@ -30,9 +30,9 @@ This project is an online platform for buying and selling electronic gadgets. It
 ## Screenshots
 
 ![Home Page](img/home.png)
-
+<br>
 ![Mobile Category](img/middle.png)
-
+<br>
 ![Cart](img/cart.png)
 
 ## Installation
