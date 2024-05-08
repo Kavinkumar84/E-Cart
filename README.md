@@ -31,10 +31,8 @@ This project is an online platform for buying and selling electronic gadgets. It
 
 ![Home Page](img/home.png)
 
-
-
-
 ![Mobile Category](img/middle.png)
+
 ![Cart](img/cart.png)
 
 ## Installation
@@ -49,9 +47,6 @@ This project is an online platform for buying and selling electronic gadgets. It
 - Add items to the cart by clicking on the "Add to Cart" button.
 - Proceed to checkout by clicking on the cart icon in the navigation bar.
 
-
 ## About the Project
 
 This project was created as part of a web development course to demonstrate proficiency in frontend technologies and e-commerce concepts.
-
-
